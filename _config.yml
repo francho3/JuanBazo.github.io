@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Juan Bazo"
-  avatar           : "biofoto2.jpeg"
+  avatar           : "biofoto2.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Lima - Peru"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/francho3"
+  github           :  "https://github.com/francho3"
   google_plus      :
   keybase          :
   instagram        :
