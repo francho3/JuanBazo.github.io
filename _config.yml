@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juan Bazo / Climate Scientist"
+title                    : "Dr. Juan Bazo / Climate Scientist"
 title_separator          : "-"
 name                     : &name "Juan Bazo"
 description              : &description "personal description"
