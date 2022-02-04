@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Juan Bazo"
   avatar           : "biofoto3.png"
-  bio              : "Climate Scientist, Data Scientist and Humanitarian"
+  bio              : "Climate Scientist, Data Scientist and Humanitarian <br> <br> Climate Science Advisor at Climate Centre, <a style='color: black;' href='http://climatecentre.org'</a>" 
   location         : "Lima - Peru"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
