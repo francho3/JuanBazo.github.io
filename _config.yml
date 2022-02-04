@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Bazo"
+  name             : "Dr. Juan Bazo"
   avatar           : "biofoto3.png"
   bio              : "Climate Scientist, Data Scientist and Humanitarian" 
   location         : "Lima - Peru"
-  employer         : "https://www.climatecentre.org"
+  employer         : "Red Cross Red Crescent, Climate Centre"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zEl2d-MAAAAJ"
   email            :  "francho38@icloud.com"
