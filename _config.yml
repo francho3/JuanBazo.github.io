@@ -84,7 +84,7 @@ author:
   avatar           : "biofoto3.png"
   bio              : "Climate Scientist, Data Scientist and Humanitarian" 
   location         : "Lima - Peru"
-  employer         : "style='color: black;' href='http://climatecentre.org'</a>"
+  employer         : "https://www.climatecentre.org"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zEl2d-MAAAAJ"
   email            :  "francho38@icloud.com"
