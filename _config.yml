@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Juan Bazo"
   avatar           : "biofoto3.png"
-  bio              : "Climate Scientist, Data Scientist and Humanitarian <br> <br> Climate Science Advisor at Red Cross Red Crescent Climate Centre, <a style='color: black;' href='http://climatecentre.org'</a>" 
+  bio              : "Climate Scientist, Data Scientist and Humanitarian" 
   location         : "Lima - Peru"
-  employer         :
+  employer         : "Red Cross Red Crescent Climate Centre, <a style='color: black;' href='http://climatecentre.org'</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zEl2d-MAAAAJ"
-  email            :
+  email            :  "francho38@icloud.com"
   researchgate     :  "https://www.researchgate.net/profile/Juan-Bazo"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/juan-bazo-ba467326"
+  linkedin         : "https://www.linkedin.com/in/juan-bazo-ba467326"
   orcid            : "https://orcid.org/0000-0001-9204-5908"
   pinterest        :
   soundcloud       :
