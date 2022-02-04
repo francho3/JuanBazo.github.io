@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Juan Bazo"
   avatar           : "biofoto3.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Climate Scientist, Data Scientist and Humanitarian"
   location         : "Lima - Peru"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
