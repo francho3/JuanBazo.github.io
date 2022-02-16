@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - "/wordpress/"
   - "/wordpress/index.html"
+  - <p style="text-align: justify;">Párrafo con un texto</p>
 ---
 
 {% include base_path %}
